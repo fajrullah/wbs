@@ -1,1 +1,11 @@
-# wbs
+
+## install
+```
+$ npm i 
+```
+
+## Development
+
+```
+$ npm start
+```
